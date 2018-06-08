@@ -1,0 +1,83 @@
+2018-06-07 16:39:42,705:INFO: Creating the datasets...
+2018-06-07 16:39:42,792:INFO: Creating the model...
+2018-06-07 16:39:44,521:INFO: Starting training for 20 epoch(s)
+2018-06-07 16:39:45,745:INFO: Epoch 1/20
+2018-06-07 16:39:47,616:INFO: - Train metrics: accuracy: 0.181 ; loss: 2.530
+2018-06-07 16:39:48,169:INFO: - Eval metrics: accuracy: 0.065 ; loss: 2.921
+2018-06-07 16:39:48,437:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-1
+2018-06-07 16:39:48,439:INFO: Epoch 2/20
+2018-06-07 16:39:49,841:INFO: - Train metrics: accuracy: 0.705 ; loss: 1.083
+2018-06-07 16:39:50,223:INFO: - Eval metrics: accuracy: 0.065 ; loss: 3.681
+2018-06-07 16:39:50,487:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-2
+2018-06-07 16:39:50,489:INFO: Epoch 3/20
+2018-06-07 16:39:51,867:INFO: - Train metrics: accuracy: 0.848 ; loss: 0.803
+2018-06-07 16:39:52,287:INFO: - Eval metrics: accuracy: 0.065 ; loss: 3.994
+2018-06-07 16:39:52,549:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-3
+2018-06-07 16:39:52,551:INFO: Epoch 4/20
+2018-06-07 16:39:53,981:INFO: - Train metrics: accuracy: 0.905 ; loss: 0.526
+2018-06-07 16:39:54,399:INFO: - Eval metrics: accuracy: 0.161 ; loss: 2.815
+2018-06-07 16:39:54,633:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-4
+2018-06-07 16:39:54,634:INFO: Epoch 5/20
+2018-06-07 16:39:56,113:INFO: - Train metrics: accuracy: 0.981 ; loss: 0.310
+2018-06-07 16:39:56,528:INFO: - Eval metrics: accuracy: 0.548 ; loss: 1.424
+2018-06-07 16:39:56,798:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-5
+2018-06-07 16:39:56,799:INFO: Epoch 6/20
+2018-06-07 16:39:58,199:INFO: - Train metrics: accuracy: 0.962 ; loss: 0.264
+2018-06-07 16:39:58,641:INFO: - Eval metrics: accuracy: 0.839 ; loss: 0.735
+2018-06-07 16:39:58,918:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-6
+2018-06-07 16:39:58,919:INFO: Epoch 7/20
+2018-06-07 16:40:00,338:INFO: - Train metrics: accuracy: 0.971 ; loss: 0.202
+2018-06-07 16:40:00,782:INFO: - Eval metrics: accuracy: 0.903 ; loss: 0.521
+2018-06-07 16:40:01,039:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-7
+2018-06-07 16:40:01,041:INFO: Epoch 8/20
+2018-06-07 16:40:02,645:INFO: - Train metrics: accuracy: 0.990 ; loss: 0.127
+2018-06-07 16:40:03,073:INFO: - Eval metrics: accuracy: 0.935 ; loss: 0.423
+2018-06-07 16:40:03,309:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-8
+2018-06-07 16:40:03,310:INFO: Epoch 9/20
+2018-06-07 16:40:04,717:INFO: - Train metrics: accuracy: 0.990 ; loss: 0.105
+2018-06-07 16:40:05,135:INFO: - Eval metrics: accuracy: 0.935 ; loss: 0.382
+2018-06-07 16:40:05,366:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-9
+2018-06-07 16:40:05,367:INFO: Epoch 10/20
+2018-06-07 16:40:06,757:INFO: - Train metrics: accuracy: 1.000 ; loss: 0.080
+2018-06-07 16:40:07,196:INFO: - Eval metrics: accuracy: 0.935 ; loss: 0.348
+2018-06-07 16:40:07,456:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-10
+2018-06-07 16:40:07,457:INFO: Epoch 11/20
+2018-06-07 16:40:08,869:INFO: - Train metrics: accuracy: 1.000 ; loss: 0.055
+2018-06-07 16:40:09,288:INFO: - Eval metrics: accuracy: 0.935 ; loss: 0.314
+2018-06-07 16:40:09,519:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-11
+2018-06-07 16:40:09,520:INFO: Epoch 12/20
+2018-06-07 16:40:10,847:INFO: - Train metrics: accuracy: 1.000 ; loss: 0.047
+2018-06-07 16:40:11,270:INFO: - Eval metrics: accuracy: 0.935 ; loss: 0.295
+2018-06-07 16:40:11,518:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-12
+2018-06-07 16:40:11,520:INFO: Epoch 13/20
+2018-06-07 16:40:12,952:INFO: - Train metrics: accuracy: 1.000 ; loss: 0.042
+2018-06-07 16:40:13,326:INFO: - Eval metrics: accuracy: 0.935 ; loss: 0.280
+2018-06-07 16:40:13,557:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-13
+2018-06-07 16:40:13,572:INFO: Epoch 14/20
+2018-06-07 16:40:14,959:INFO: - Train metrics: accuracy: 1.000 ; loss: 0.039
+2018-06-07 16:40:15,441:INFO: - Eval metrics: accuracy: 0.968 ; loss: 0.265
+2018-06-07 16:40:15,744:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-14
+2018-06-07 16:40:15,745:INFO: Epoch 15/20
+2018-06-07 16:40:17,210:INFO: - Train metrics: accuracy: 1.000 ; loss: 0.030
+2018-06-07 16:40:17,611:INFO: - Eval metrics: accuracy: 0.968 ; loss: 0.254
+2018-06-07 16:40:17,905:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-15
+2018-06-07 16:40:17,906:INFO: Epoch 16/20
+2018-06-07 16:40:19,395:INFO: - Train metrics: accuracy: 1.000 ; loss: 0.025
+2018-06-07 16:40:19,768:INFO: - Eval metrics: accuracy: 0.968 ; loss: 0.243
+2018-06-07 16:40:20,006:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-16
+2018-06-07 16:40:20,007:INFO: Epoch 17/20
+2018-06-07 16:40:21,364:INFO: - Train metrics: accuracy: 1.000 ; loss: 0.025
+2018-06-07 16:40:21,778:INFO: - Eval metrics: accuracy: 0.968 ; loss: 0.230
+2018-06-07 16:40:22,041:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-17
+2018-06-07 16:40:22,042:INFO: Epoch 18/20
+2018-06-07 16:40:23,500:INFO: - Train metrics: accuracy: 1.000 ; loss: 0.022
+2018-06-07 16:40:23,885:INFO: - Eval metrics: accuracy: 0.968 ; loss: 0.219
+2018-06-07 16:40:24,121:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-18
+2018-06-07 16:40:24,122:INFO: Epoch 19/20
+2018-06-07 16:40:25,516:INFO: - Train metrics: accuracy: 1.000 ; loss: 0.020
+2018-06-07 16:40:25,942:INFO: - Eval metrics: accuracy: 0.968 ; loss: 0.222
+2018-06-07 16:40:26,194:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-19
+2018-06-07 16:40:26,195:INFO: Epoch 20/20
+2018-06-07 16:40:27,623:INFO: - Train metrics: accuracy: 1.000 ; loss: 0.017
+2018-06-07 16:40:28,055:INFO: - Eval metrics: accuracy: 0.968 ; loss: 0.221
+2018-06-07 16:40:28,319:INFO: - Found new best accuracy, saving in experiments/bn_momentum/bn_momentum_0.8/best_weights/after-epoch-20
